@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo AI Instructions Organizer"
+  short_description: "Define clear repo AI boundaries"
+  default_prompt: "Use $agents-md-organizer for this repo: start with a read-only inventory, ask up to three plain-language boundary questions, then propose wording or make approved changes that keep the latest request primary, preserve tracked durable knowledge, define compression recovery, keep stale context out of startup routes, check VCS/workspace state, gate no-VCS/destructive writes, and never copy secrets."
